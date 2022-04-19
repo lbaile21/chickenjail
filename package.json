@@ -1,0 +1,11 @@
+{
+  "name": "chicken_dryer",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/owlypixel/pen/XpzoGw](https://codepen.io/owlypixel/pen/XpzoGw).",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
